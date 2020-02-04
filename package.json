@@ -1,0 +1,15 @@
+{
+  "name": "twitter-to-discord-webhooks",
+  "version": "1.0.0",
+  "description": "Middleware application that monitors Twitter accounts and sends new posts to discord webhook endpoints",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "twit": "^2.2.11"
+  }
+}
